@@ -37,7 +37,7 @@ dependencies = [
   "pybullet",
   # Ours
   "ctrlutils==1.4.1",
-  "pysymbolic @ git+https://github.com/kevin-thankyou-lin/symbolic",
+  "pysymbolic>=1.0.1",
   "spatialdyn==1.4.4",
 ]
 
